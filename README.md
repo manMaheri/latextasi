@@ -43,10 +43,6 @@ Dikembangkan sebagai Template Latex TA di Program SI oleh Inggih Permana (Faste 
 
 Anda dapat melakukan kontribusi terhadap pengembangan template ini dengan mengirimkan pull request ke repositori ini.
 
-## Lisensi
-
-Template ini dilisensikan di bawah [MIT License](LICENSE).
-
 ---
 
 **Catatan:** Template ini hanya merupakan panduan dan bukan merupakan aturan baku yang harus diikuti. Mahasiswa diharapkan untuk memastikan bahwa Tugas Akhir mereka memenuhi semua persyaratan yang ditetapkan oleh Program Studi Sistem Informasi di UIN Suska Riau.
