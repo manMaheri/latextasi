@@ -1,13 +1,10 @@
 # Template Latex untuk Pengerjaan Tugas Akhir Prodi SI di UIN Suska Riau
-
-Ini adalah sebuah template Latex yang disiapkan untuk memudahkan mahasiswa Program Studi Sistem Informasi (SI) dalam mengerjakan Tugas Akhir mereka di Universitas Islam Negeri (UIN) Suska Riau.
+---
 
 ## Deskripsi
-
 Template ini dirancang untuk memenuhi persyaratan format penulisan Tugas Akhir yang telah ditetapkan oleh Program Studi Sistem Informasi di UIN Suska Riau. Dengan menggunakan template ini, mahasiswa dapat fokus pada isi dari Tugas Akhir mereka tanpa harus khawatir tentang format penulisan yang benar.
 
 ## Fitur
-
 - Sesuai dengan pedoman format penulisan Tugas Akhir Prodi SI UIN Suska Riau.
 - Mudah disesuaikan dan digunakan.
 - Memuat berbagai bagian yang umumnya diperlukan dalam sebuah Tugas Akhir seperti halaman judul, abstrak, daftar isi, daftar gambar, daftar tabel, dll.
@@ -21,18 +18,10 @@ Pastikan hanya mengedit yang diperlukan saja!!
 4. [`/konfigurasi/datatugasakhir.tex`](/konfigurasi/datatugasakhir.tex): Berkas yang mengandung data-data spesifik terkait Tugas Akhir seperti judul, nama penulis, dan lain-lain. Dapat diedit untuk memasukkan data-data Tugas Akhir yang sesuai.
 
 ## Penggunaan
-
 1. Anda dapat mengunduh template ini melalui [releases](https://github.com/manMaheri/latextasi/releases/latest).
 2. Edit berkas [berikut](https://github.com/manMaheri/latextasi/blob/master/README.md#berkas-untuk-setting-data) sesuai dengan kebutuhan Anda.
-3. Jalankan kompilasi Latex pada berkas `tugasakhir.tex` menggunakan perangkat lunak Latex seperti TexStudio, Overleaf, atau sejenisnya.
+3. Jalankan kompilasi Latex pada berkas `tugasakhir.tex` menggunakan perangkat lunak Latex seperti TexStudio, [Overleaf](https://www.overleaf.com), atau sejenisnya.
 4. Hasil kompilasi akan menghasilkan berkas PDF yang merupakan Tugas Akhir Anda.
-
-Disarankan untuk mengerjakan Tugas Akhir menggunakan secara online seperti melalui website [Overleaf.com](https://www.overleaf.com/) mengingat package latex yang besar untuk penggunaan offline.
-
-1. Buat akun gratis di [Overleaf.com](https://www.overleaf.com/).
-2. Mulai sebuah proyek baru dan upload template yang telah diunduh ke dalam proyek Anda.
-3. Edit berkas [berikut](https://github.com/manMaheri/latextasi/blob/master/README.md#berkas-untuk-setting-data) sesuai dengan kebutuhan Anda.
-4. Overleaf akan secara otomatis menyimpan perubahan Anda dan menyediakan antarmuka yang nyaman untuk melihat hasil kompilasi Tugas Akhir Anda.
 
 ## Credit
 Template ini dibuat oleh Andreas Febrian (Fasilkom UI 2003)
@@ -40,9 +29,8 @@ Disebarluaskan oleh Erik Dominikus (Fasilkom UI 2007)
 Dikembangkan sebagai Template Latex TA di Program SI oleh Inggih Permana (Faste UIN Suska Riau 2019)
 
 ## Kontribusi
-
 Anda dapat melakukan kontribusi terhadap pengembangan template ini dengan mengirimkan pull request ke repositori ini.
 
 ---
 
-**Catatan:** Template ini hanya merupakan panduan dan bukan merupakan aturan baku yang harus diikuti. Mahasiswa diharapkan untuk memastikan bahwa Tugas Akhir mereka memenuhi semua persyaratan yang ditetapkan oleh Program Studi Sistem Informasi di UIN Suska Riau.
+**Catatan:** Secara default template ini adalah template proposal, anda bisa mengubahnya menjadi template TA yang lengkap dengan mengganti tipeta menjadi "Tugas Akhir"
