@@ -23,7 +23,7 @@ Template ini dirancang untuk memenuhi persyaratan format penulisan Tugas Akhir y
 ## Penggunaan
 
 1. Anda dapat mengunduh template ini melalui [releases](https://github.com/namapengguna/namarepo/releases/latest).
-2. Edit berkas sesuai dengan kebutuhan Anda.
+2. Edit berkas [berikut](https://github.com/manMaheri/latextasi/blob/master/README.md#berkas-untuk-setting-data) sesuai dengan kebutuhan Anda.
 3. Jalankan kompilasi Latex pada berkas `tugasakhir.tex` menggunakan perangkat lunak Latex seperti TexStudio, Overleaf, atau sejenisnya.
 4. Hasil kompilasi akan menghasilkan berkas PDF yang merupakan Tugas Akhir Anda.
 
@@ -31,7 +31,7 @@ Disarankan untuk mengerjakan Tugas Akhir menggunakan secara online seperti melal
 
 1. Buat akun gratis di [Overleaf.com](https://www.overleaf.com/).
 2. Mulai sebuah proyek baru dan upload template yang telah diunduh ke dalam proyek Anda.
-3. Edit berkas `tugasakhir.tex` sesuai dengan kebutuhan Anda.
+3. Edit berkas [berikut](https://github.com/manMaheri/latextasi/blob/master/README.md#berkas-untuk-setting-data) sesuai dengan kebutuhan Anda.
 4. Overleaf akan secara otomatis menyimpan perubahan Anda dan menyediakan antarmuka yang nyaman untuk melihat hasil kompilasi Tugas Akhir Anda.
 
 ## Kontribusi
