@@ -14,7 +14,7 @@ Template ini dirancang untuk memenuhi persyaratan format penulisan Tugas Akhir y
 - Termasuk beberapa contoh dan placeholder untuk membantu mahasiswa memulai penulisan Tugas Akhir mereka.
 
 ## Berkas untuk setting data:
-<br>Pastikan hanya mengedit yang diperlukan saja!!
+Pastikan hanya mengedit yang diperlukan saja!!
 1. [`tugasakhir.tex`](tugasakhir.tex): Berkas utama Tugas Akhir yang harus diedit sesuai dengan konten Tugas Akhir Anda.
 2. [`/kontrol/uinsuskatugasakhir.sty`](/kontrol/uinsuskatugasakhir.sty): Berkas yang mengandung pengaturan gaya dan format Tugas Akhir. Dapat diedit untuk menyesuaikan gaya dan format yang diinginkan.
 3. [`/kontrol/laporan_setting.tex`](/kontrol/laporan_setting.tex): Berkas konfigurasi tambahan untuk Tugas Akhir. Dapat diedit untuk menyesuaikan pengaturan tambahan seperti halaman judul, pengaturan bab, dan lain-lain.
@@ -33,6 +33,11 @@ Disarankan untuk mengerjakan Tugas Akhir menggunakan secara online seperti melal
 2. Mulai sebuah proyek baru dan upload template yang telah diunduh ke dalam proyek Anda.
 3. Edit berkas [berikut](https://github.com/manMaheri/latextasi/blob/master/README.md#berkas-untuk-setting-data) sesuai dengan kebutuhan Anda.
 4. Overleaf akan secara otomatis menyimpan perubahan Anda dan menyediakan antarmuka yang nyaman untuk melihat hasil kompilasi Tugas Akhir Anda.
+
+## Credit
+Template ini dibuat oleh Andreas Febrian (Fasilkom UI 2003)
+Disebarluaskan oleh Erik Dominikus (Fasilkom UI 2007)
+Dikembangkan sebagai Template Latex TA di Program SI oleh Inggih Permana (Faste UIN Suska Riau 2019)
 
 ## Kontribusi
 
