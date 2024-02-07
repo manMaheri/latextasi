@@ -20,13 +20,13 @@ Pastikan hanya mengedit yang diperlukan saja!!
 ## Penggunaan
 1. Anda dapat mengunduh template ini melalui [releases](https://github.com/manMaheri/latextasi/releases/latest).
 2. Edit berkas [berikut](https://github.com/manMaheri/latextasi/blob/master/README.md#berkas-untuk-setting-data) sesuai dengan kebutuhan Anda.
-3. Jalankan kompilasi Latex pada berkas `tugasakhir.tex` menggunakan perangkat lunak Latex seperti TexStudio, [Overleaf](https://www.overleaf.com), atau sejenisnya.
+3. Jalankan kompilasi Latex pada berkas `tugasakhir.tex` menggunakan perangkat lunak Latex seperti TexStudio, [Overleaf](https://overleaf.com), atau sejenisnya.
 4. Hasil kompilasi akan menghasilkan berkas PDF yang merupakan Tugas Akhir Anda.
 
 ## Credit
-Template ini dibuat oleh Andreas Febrian (Fasilkom UI 2003)
-Disebarluaskan oleh Erik Dominikus (Fasilkom UI 2007)
-Dikembangkan sebagai Template Latex TA di Program SI oleh Inggih Permana (Faste UIN Suska Riau 2019)
+- Dibuat oleh [Andreas Febrian](https://github.com/shuyuie) (Fasilkom UI 2003)
+- Disebarluaskan oleh [Erik Dominikus](https://github.com/edom) (Fasilkom UI 2007)
+- Dikembangkan sebagai Template Latex TA di Program SI oleh [Inggih Permana](https://github.com/inggihpermana) (Faste UIN Suska Riau 2019)
 
 ## Kontribusi
 Anda dapat melakukan kontribusi terhadap pengembangan template ini dengan mengirimkan pull request ke repositori ini.
