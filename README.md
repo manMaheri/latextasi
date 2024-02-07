@@ -22,7 +22,7 @@ Template ini dirancang untuk memenuhi persyaratan format penulisan Tugas Akhir y
 
 ## Penggunaan
 
-1. Anda dapat mengunduh template ini melalui [releases](https://github.com/namapengguna/namarepo/releases/latest).
+1. Anda dapat mengunduh template ini melalui [releases](https://github.com/manMaheri/latextasi/releases/latest).
 2. Edit berkas [berikut](https://github.com/manMaheri/latextasi/blob/master/README.md#berkas-untuk-setting-data) sesuai dengan kebutuhan Anda.
 3. Jalankan kompilasi Latex pada berkas `tugasakhir.tex` menggunakan perangkat lunak Latex seperti TexStudio, Overleaf, atau sejenisnya.
 4. Hasil kompilasi akan menghasilkan berkas PDF yang merupakan Tugas Akhir Anda.
