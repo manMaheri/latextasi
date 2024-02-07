@@ -13,18 +13,28 @@ Template ini dirancang untuk memenuhi persyaratan format penulisan Tugas Akhir y
 - Memuat berbagai bagian yang umumnya diperlukan dalam sebuah Tugas Akhir seperti halaman judul, abstrak, daftar isi, daftar gambar, daftar tabel, dll.
 - Termasuk beberapa contoh dan placeholder untuk membantu mahasiswa memulai penulisan Tugas Akhir mereka.
 
-**Berkas yang Perlu Diedit Sebelum Memulai Pengerjaan**
-**Pastikan hanya mengedit yang diperlukan saja!!**
+### Pastikan hanya mengedit yang diperlukan saja!!
+**Berkas untuk setting data:**
 1. [`tugasakhir.tex`](tugasakhir.tex): Berkas utama Tugas Akhir yang harus diedit sesuai dengan konten Tugas Akhir Anda.
 2. [`/kontrol/uinsuskatugasakhir.sty`](/kontrol/uinsuskatugasakhir.sty): Berkas yang mengandung pengaturan gaya dan format Tugas Akhir. Dapat diedit untuk menyesuaikan gaya dan format yang diinginkan.
 3. [`/kontrol/laporan_setting.tex`](/kontrol/laporan_setting.tex): Berkas konfigurasi tambahan untuk Tugas Akhir. Dapat diedit untuk menyesuaikan pengaturan tambahan seperti halaman judul, pengaturan bab, dan lain-lain.
 4. [`/konfigurasi/datatugasakhir.tex`](/konfigurasi/datatugasakhir.tex): Berkas yang mengandung data-data spesifik terkait Tugas Akhir seperti judul, nama penulis, dan lain-lain. Dapat diedit untuk memasukkan data-data Tugas Akhir yang sesuai.
 
+<div class="warning" style="border: 1px solid #ffc107; padding: 10px; border-radius: 5px;">
+
+### Peringatan:
+
+Pastikan untuk melakukan penyuntingan berkas [`main.tex`](main.tex) dengan hati-hati. Berkas ini adalah berkas utama Tugas Akhir dan segala perubahan yang dilakukan di sini akan mempengaruhi hasil akhir Tugas Akhir Anda. Selalu pastikan untuk mem-backup berkas sebelum melakukan perubahan, dan pastikan untuk memahami dampak dari perubahan yang Anda lakukan.
+
+</div>
+
+
+
 ## Penggunaan
 
 1. Anda dapat mengunduh template ini melalui [releases](https://github.com/namapengguna/namarepo/releases/latest).
 2. Edit berkas sesuai dengan kebutuhan Anda.
-3. Jalankan kompilasi Latex pada berkas `main.tex` menggunakan perangkat lunak Latex seperti TexStudio, Overleaf, atau sejenisnya.
+3. Jalankan kompilasi Latex pada berkas `tugasakhir.tex` menggunakan perangkat lunak Latex seperti TexStudio, Overleaf, atau sejenisnya.
 4. Hasil kompilasi akan menghasilkan berkas PDF yang merupakan Tugas Akhir Anda.
 
 Disarankan untuk mengerjakan Tugas Akhir menggunakan secara online seperti melalui website [Overleaf.com](https://www.overleaf.com/) mengingat package latex yang besar untuk penggunaan offline.
